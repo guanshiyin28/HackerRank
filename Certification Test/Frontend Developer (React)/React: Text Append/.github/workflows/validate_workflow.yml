@@ -1,0 +1,79 @@
+name: HackerRank Validation
+on:
+  workflow_dispatch:
+    inputs:
+      targetStack:
+        description: 'Target Stack'
+        required: true
+        default: 'based_on_current_stack'
+        type: choice
+        options:
+        - based_on_current_stack
+        - cpp12_1
+        - go1_20
+        - nodejs18_15
+        - nodejs18_15__vuejs
+        - nodejs18_15__reactjs
+        - nodejs18_15__angularjs
+        - java17_0__spring_boot
+        - java17_0__gradle
+        - java17_0__maven
+        - ruby3_2__rails
+        - python3_11__django
+        - dotnet6_0
+        - spark3_4
+        - pyspark3_4
+        - php8_2
+        - php8_2__codeigniter
+        - php8_2__symfony
+        - php8_2__laravel
+        - expo6_3__react_native
+        - kotlin1_8_android9477386
+        - java17_0_android9477386
+
+env:
+  SOLUTION_TOKEN: ${{ secrets.SOLUTION_TOKEN }}
+  HACKERRANK_TOKEN: ${{ secrets.QUESTION_TOKEN }}
+  HACKERRANK_STACKS: ${{ vars.HACKERRANK_STACKS }}
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 7
+    steps:
+      - name: Validate repo
+        run: |
+          if [[ $REPO_NAME == [[:digit:]]* ]]
+          then
+            echo 'Repo is valid =>' $REPO_NAME
+          else
+            echo 'Repo not starting with digit =>' $REPO_NAME
+            exit 1
+          fi
+        shell: bash
+        env:
+          REPO_NAME: ${{ github.event.repository.name }}
+      - name: Checkout branch
+        uses: actions/checkout@v3
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 'pypy3.9'
+      - run: git archive --format=zip -o project.zip HEAD ':!.github'
+        name: Create Project zip
+      - run: pip install -r ./.github/scripts/requirements.txt
+        name: Install script dependencies
+      - run: python -u ./.github/scripts/validate.py ${{ github.event.repository.name }} ${{ github.ref_name }}
+        name: Validate
+        env:
+          TARGET_STACK: ${{ inputs.targetStack }}
+      - name: Find Pull Request
+        uses: juliangruber/find-pull-request-action@v1.8.0
+        id: find-pull-request
+        with:
+          branch: ${{ github.ref_name }}
+      - name: Approve Pull Request if found
+        uses: juliangruber/approve-pull-request-action@v2.0.4
+        if: ${{ steps.find-pull-request.outputs.number != '' }}
+        with:
+          github-token: ${{ github.token }}
+          number: ${{ steps.find-pull-request.outputs.number }}
