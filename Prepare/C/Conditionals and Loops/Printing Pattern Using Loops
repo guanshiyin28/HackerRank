@@ -1,0 +1,50 @@
+#include <stdio.h>
+#include <string.h>
+#include <math.h>
+#include <stdlib.h>
+
+int main() {
+
+int n;
+scanf("%d", &n);
+// Complete the code to print the pattern.
+int arr_siz = ((n-1)*2) + 1;
+int **arr = (int**)malloc(arr_siz * sizeof(int*));
+for (int i = 0; i < arr_siz; i++)
+    arr[i] = (int*)malloc(arr_siz * sizeof(int));
+
+int arr_loop = (arr_siz/2) + 1;
+int num_dec = 0;
+for(int i =0; i < arr_loop; i++)
+{
+    int  dec_val = 0;
+    num_dec = i;
+    for(int j=0; j< arr_loop; j++)
+    {
+        arr[i][j] = n-dec_val;
+        arr[i][arr_siz -1 - j] = n-dec_val;
+        if(num_dec)
+        {
+            dec_val += 1;
+            num_dec--;
+        }
+    }
+    memcpy(arr[arr_siz-1-i], arr[i],arr_siz * sizeof(int));
+}
+for (int i = 0; i < arr_siz; i++)
+{
+    for (int j = 0; j < arr_siz; j++)
+    {
+        printf("%d ", arr[i][j]);
+    }
+    printf("\n");
+}       
+
+/* Code for further processing and free the
+   dynamically allocated memory */
+
+for (int i = 0; i < arr_siz; i++)
+    free(arr[i]);
+return 0;
+
+}
