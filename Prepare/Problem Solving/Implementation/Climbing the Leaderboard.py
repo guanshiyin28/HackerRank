@@ -16,22 +16,15 @@ import sys
 #
 
 def climbingLeaderboard(ranked, player):
-    
-    ranked = sorted(set(ranked), reverse=True)
-    rankFinal: list = []
-    #print(ranked)
-    
-    for ply in player:
-        for rankPos, rankScore in enumerate(ranked, 1):
-            if ply >= rankScore:
-                #print(ply, rankPos, rankScore)
-                rankFinal.append(rankPos)
-                break
-            if rankPos == len(ranked):
-                #print(ply, rankPos+1)
-                rankFinal.append(rankPos+1)
-    
-    return rankFinal
+    ranks = []
+    ranked = sorted(list(set(ranked)))
+    currRank = len(ranked)+1
+    for i in player:
+        while ranked and i >= ranked[0]:
+            del ranked [0]
+            currRank -= 1
+        ranks.append(currRank)
+    return ranks
 
 if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')
