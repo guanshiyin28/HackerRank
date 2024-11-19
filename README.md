@@ -4,7 +4,7 @@
     HackerRank
   </h1>
     <p align=justify>
-    HackerRank is a technology company that focuses on competitive programming challenges for both consumers and businesses. Developers compete by writing programs according to provided specifications. HackerRank's programming challenges can be solved in a variety of programming languages (including Java, C++, PHP, Python, SQL, and JavaScript) and span multiple computer science domains.
+      HackerRank is a technology company that focuses on competitive programming challenges for both consumers and businesses. Developers compete by writing programs according to provided specifications. HackerRank's programming challenges can be solved in a variety of programming languages (including Java, C++, PHP, Python, SQL, and JavaScript) and span multiple computer science domains.
     </p>
 </div>
 <!--About End-->
@@ -19,23 +19,23 @@
     Purpose of This Repository
   </h2>
 </div>
-<p align=justify>
-  This repository is created to store and manage solutions that have been completed on the HackerRank platform. The primary objectives of this repository are:
-  <ul>
-    <li>
-      <strong>Sharing Knowledge: </strong>To provide a learning resource for both novice and experienced programmers.
-    </li>
-    <li>
-      <strong>Personal Documentation: </strong>To track progress in solving programming problems.
-    </li>
-    <li>
-      <strong>Collaboration: </strong>To enable users to contribute, provide feedback, or improve existing solutions.
-    </li>
-    <li>
-      <strong>Quick Reference: </strong>To provide a place to find solutions to similar problems.
-    </li>
-  </ul>
-</p>
+  <p align=justify>
+    This repository is created to store and manage solutions that have been completed on the HackerRank platform. The primary objectives of this repository are:
+    <ul>
+      <li>
+        <strong>Sharing Knowledge: </strong>To provide a learning resource for both novice and experienced programmers.
+      </li>
+      <li>
+        <strong>Personal Documentation: </strong>To track progress in solving programming problems.
+      </li>
+      <li>
+        <strong>Collaboration: </strong>To enable users to contribute, provide feedback, or improve existing solutions.
+      </li>
+      <li>
+        <strong>Quick Reference: </strong>To provide a place to find solutions to similar problems.
+      </li>
+    </ul>
+  </p>
 <!--Purpose End-->
 
 <!--Gap-->
