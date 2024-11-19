@@ -3,9 +3,9 @@
   <h1>
     HackerRank
   </h1>
-  <p align=justify>
+    <p align=justify>
     HackerRank is a technology company that focuses on competitive programming challenges for both consumers and businesses. Developers compete by writing programs according to provided specifications. HackerRank's programming challenges can be solved in a variety of programming languages (including Java, C++, PHP, Python, SQL, and JavaScript) and span multiple computer science domains.
-  </p>
+    </p>
 </div>
 <!--About End-->
 
