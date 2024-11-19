@@ -59,9 +59,9 @@
       <th>No</th> <th>Languages</th> <th>Link</th>
     </thead>
     <!--Header End-->
-    <tbody>
+    <tbody align=center>
       <!-- 1 -->
-      <tr align=center>
+      <tr>
         <td>1</td>
         <td>Ruby</td>
         <td>
@@ -76,6 +76,33 @@
         </td>
       </tr>
       <!--1 -->
+      <!-- 2 -->
+      <tr>
+        <td>2</td>
+        <td>Python</td>
+        <td>
+          <ul align=left>
+            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/main/Prepare/Python/Introduction">Introduction</a></li>
+            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/main/Prepare/Python/Basic%20Data%20Types">Basic Data Types</a></li>
+            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/main/Prepare/Python/Strings">Strings</a></li>
+            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/main/Prepare/Python/Sets">Sets</a></li>
+            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/main/Prepare/Python/Math">Math</a></li>
+            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/main/Prepare/Python/Itertools">Itertools</a></li>
+            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/main/Prepare/Python/Collections">Collections</a></li>
+            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/main/Prepare/Python/Date%20and%20Time">Date and Time</a></li>
+            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/main/Prepare/Python/Errors%20and%20Exceptions">Errors and Exceptions</a></li>
+            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/main/Prepare/Python/Classes">Classes</a></li>
+            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/main/Prepare/Python/Built-Ins">Built-Ins</a></li>
+            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/main/Prepare/Python/Python%20Functionals">Python Functionals</a></li>
+            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/main/Prepare/Python/Regex%20and%20Parsing">Regex and Parsing</a></li>
+            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/main/Prepare/Python/XML">XML</a></li>
+            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/main/Prepare/Python/Closures%20and%20Decorators">Closures and Decorators</a></li>
+            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/main/Prepare/Python/Numpy">Numpy</a></li>
+            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/main/Prepare/Python/Debugging">Debugging</a></li>
+          </ul>
+        </td>
+      </tr>
+      <!--2 -->
     </tbody>
   </table>
   
