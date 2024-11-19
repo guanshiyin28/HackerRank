@@ -10,9 +10,7 @@
 <!--About End-->
 
 <!--Gap-->
-<hr>
-<br>
-<br>
+<hr><br><br>
 <!--Gap End-->
 
 <!--Purpose-->
@@ -41,8 +39,7 @@
 <!--Purpose End-->
 
 <!--Gap-->
-<hr>
-<br>
+<hr><br>
 <!--Gap End-->
 
 <!--Table of Contents-->
@@ -50,7 +47,6 @@
   <h2>
     Table of Contents
   </h2>
-  
   <h3>
     Prepare
   </h3>
@@ -106,29 +102,22 @@
       <!--2 -->
     </tbody>
   </table>
-  
 </div>
 <!--Table of Contents End-->
 
 <!--Gap-->
-<hr>
-<br>
+<hr><br>
 <!--Gap End-->
 
 <!--Languages and Tools-->
-<!--Title-->
 <div align=center>
-  <h3>
-    :hammer_and_wrench: Languages and Tools in This Repository :hammer_and_wrench:    
-  </h3>
-</div>
-<!--Title End-->
-
-<div align=center>
+  <h2>
+    Languages and Tools in This Repository
+  </h2>
   <!--Languages-->
-<h4>
+<h3>
   Languages
-</h4>
+</h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" title="Haskell" alt="Haskell" width="40" height="40"/>&nbsp;
@@ -145,63 +134,61 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
   <!--Languages End-->
-  
+  <br>
   <!--Tools-->
-<h4>
+<h3>
   Tools
-</h4>
+</h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
   <!--Tools End-->
-
+  <br>
   <!--IDE-->
-<h4>
+<h3>
   IDE
-</h4>
+</h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="VS Code" alt="XCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="VS Code" alt="Android Studio" width="40" height="40"/>&nbsp;
   <!--IDE End-->
-  
+  <br>
   <!--OS-->
-<h4>
+<h3>
   Operation System
-</h4>
+</h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Linux Ubuntu" alt="Linux Ubuntu" width="40" height="40"/>&nbsp;
 </div>
   <!--OS End-->
+</div>
 <!--Languages and Tools End-->
 
 <!--Gap-->
-<br><br>
+<hr><br>
 <!--Gap End-->
 
 <!--Stats-->
-<!--Title-->
 <div align=center>
-  <h3>
-    :fire: My Stats :fire:
-  </h3>
-<!--Title End-->
-
-<!--Most Used Language-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guanshiyin28&layout=compact&theme=tokyonight)](https://www.instagram.com/guanshiyin_/)
-<!--Most Used Language End-->
+  <h2>
+    My Stats
+  </h2>
   
-<!--Stats Streak-->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=guanshiyin28&theme=iceberg)](https://www.instagram.com/guanshiyin_/)
-<!--Stats Streak End-->
+  <!--Stats Streak-->
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=guanshiyin28&theme=iceberg)](https://www.instagram.com/guanshiyin_/)
+  <!--Stats Streak End-->
+  
+  <!--Most Used Language-->
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guanshiyin28&layout=compact&theme=tokyonight)](https://www.instagram.com/guanshiyin_/)
+  <!--Most Used Language End-->
 </div>
 <!--Stats End-->
 
 <!--Achievment-->
 <div align=center>
-  <h3>
-    :medal_sports: My Achievment :medal_sports:    
-  </h3>
-</div>
+  <h2>
+    My Achievment
+  </h2>
 <!--HackerRank-->
 <h4>
   <img src="https://hrcdn.net/fcore/assets/favicon-ddc852f75a.png" width="15"> HackerRank <img src="https://hrcdn.net/fcore/assets/favicon-ddc852f75a.png" width="15">
@@ -219,6 +206,7 @@
   <img src="https://github.com/guanshiyin28/guanshiyin28/blob/main/HackerRank/Certifications/Python%20Basic%20Certificate.png" title="Python Basic" alt="Python Basic" height="170">&nbsp;
   <img src="https://github.com/guanshiyin28/guanshiyin28/blob/main/HackerRank/Certifications/Problem%20Solving%20Basic.png" title="Problem Solving Basic" alt="Problem Solving Basic" height="170">&nbsp;
   <img src="https://github.com/guanshiyin28/guanshiyin28/blob/main/HackerRank/Certifications/Angular%20Basic%20Certificate.png" title="Angular Basic" alt="Angular Basic" height="170">&nbsp;
+</div>
   
   
 
