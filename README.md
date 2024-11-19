@@ -72,7 +72,7 @@
           </ul>
         </td>
       </tr>
-      <!--1 -->
+      <!-- 1 -->
       <!-- 2 -->
       <tr>
         <td>2</td>
@@ -99,7 +99,39 @@
           </ul>
         </td>
       </tr>
-      <!--2 -->
+      <!-- 2 -->
+      <!-- 3 -->
+      <tr>
+        <td>3</td>
+        <td>C</td>
+        <td>
+          <ul align=left>
+            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/main/Prepare/C/Introduction">Introduction</a></li>
+            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/main/Prepare/C/Conditionals%20and%20Loops">Conditionals and Loops</a></li>
+            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/main/Prepare/C/Arrays%20and%20Strings">Arrays and Strings</a></li>
+            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/main/Prepare/C/Functions">Functions</a></li>
+            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/main/Prepare/C/Structs%20and%20Enums">Structs and Enums</a></li>
+          </ul>
+        </td>
+      </tr>
+      <!-- 3 -->
+      <!-- 4 -->
+      <tr>
+        <td>4</td>
+        <td>C++</td>
+        <td>
+          <ul align=left>
+            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/main/Prepare/C%2B%2B/Introduction">Introduction</a></li>
+            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/main/Prepare/C%2B%2B/Strings">Strings</a></li>
+            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/main/Prepare/C%2B%2B/Classes">Classes</a></li>
+            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/main/Prepare/C%2B%2B/STL">STL</a></li>
+            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/main/Prepare/C%2B%2B/Inheritance">Inheritance</a></li>
+            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/main/Prepare/C%2B%2B/Debugging">Debugging</a></li>
+            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/main/Prepare/C%2B%2B/Other%20Concepts">Other Concepts</a></li>
+          </ul>
+        </td>
+      </tr>
+      <!-- 4 -->
     </tbody>
   </table>
 </div>
