@@ -53,7 +53,7 @@
   <table >
     <!--Header-->
     <thead align=center>
-      <th>No</th> <th>Languages</th> <th>Link</th>
+      <th>NO</th> <th>LANGUAGES</th> <th>LINK</th>
     </thead>
     <!--Header End-->
     <tbody align=center>
