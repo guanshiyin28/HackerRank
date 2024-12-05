@@ -234,31 +234,6 @@
 <hr><br>
 <!--Gap End-->
 
-<!--HackerRank Achievment-->
-<div align=center>
-  <h2>
-    My HackerRank Achievment
-  </h2>
-<h3>
-  Badges
-</h3>
-  <img src="https://github.com/guanshiyin28/guanshiyin28/blob/main/HackerRank/Badges/C%20Gold%20Badges.svg" title="C" alt="C" height="80" width="80">&nbsp;
-  <img src="https://github.com/guanshiyin28/guanshiyin28/blob/main/HackerRank/Badges/C%2B%2B%20Gold%20Badges.svg" title="C++" alt="C++" height="80" width="80">&nbsp;
-  <img src="https://github.com/guanshiyin28/guanshiyin28/blob/main/HackerRank/Badges/Python%20Gold%20Badges.svg" title="Python" alt="Python" height="80" width="80">&nbsp;
-  <img src="https://github.com/guanshiyin28/guanshiyin28/blob/main/HackerRank/Badges/Problem%20Solving%20Gold%20Badges.svg" title="Problem Solving" alt="Problem Solving" height="80" width="80">&nbsp;
-<h3>
-  Certifications
-</h3>
-  <img src="https://github.com/guanshiyin28/guanshiyin28/blob/main/HackerRank/Certifications/Python%20Basic%20Certificate.png" title="Python Basic" alt="Python Basic" height="170">&nbsp;
-  <img src="https://github.com/guanshiyin28/guanshiyin28/blob/main/HackerRank/Certifications/Problem%20Solving%20Basic.png" title="Problem Solving Basic" alt="Problem Solving Basic" height="170">&nbsp;
-  <img src="https://github.com/guanshiyin28/guanshiyin28/blob/main/HackerRank/Certifications/Angular%20Basic%20Certificate.png" title="Angular Basic" alt="Angular Basic" height="170">&nbsp;
-</div>
-<!--HackerRank Achievment End-->
-  
-<!--Gap-->
-<hr><br>
-<!--Gap End-->
-
 <!--Footer-->
 <p align="center">
   <a href="https://www.instagram.com/guanshiyin_/">
