@@ -47,40 +47,32 @@ This repository is created to store and manage solutions that have been complete
 |     |                 |                                                                                                                                                 |
 |     |                 |                                                                                                                                                 |
 |  3  |    C            | <a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/C/Introduction">Introduction</a>                                        |
+|     |                 |                                                                                                                                                 |
 
 
-            <li></li>
-            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/C/Conditionals%20and%20Loops">Conditionals and Loops</a></li>
-            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/C/Arrays%20and%20Strings">Arrays and Strings</a></li>
-            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/C/Functions">Functions</a></li>
-            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/C/Structs%20and%20Enums">Structs and Enums</a></li>
-          </ul>
-        </td>
-      </tr>
-      <tr>
-        <td>4</td>
-        <td>C++</td>
-        <td>
-          <ul align=left>
-            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/C%2B%2B/Introduction">Introduction</a></li>
-            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/C%2B%2B/Strings">Strings</a></li>
-            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/C%2B%2B/Classes">Classes</a></li>
-            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/C%2B%2B/STL">STL</a></li>
-            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/C%2B%2B/Inheritance">Inheritance</a></li>
-            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/C%2B%2B/Debugging">Debugging</a></li>
-            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/C%2B%2B/Other%20Concepts">Other Concepts</a></li>
-          </ul>
-        </td>
-      </tr>
-      <tr>
-        <td>5</td>
-        <td>Linux Shell</td>
-        <td>
-          <ul align=left>
-            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/Linux%20Shell/Bash">Bash</a></li>
-            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/Linux%20Shell/Text%20Processing">Text Processing</a></li>
-            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/Linux%20Shell/Arrays%20in%20Bash">Arrays in Bash</a></li>
-            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/Linux%20Shell/Grep%20Sed%20Awk">Grep Sed Awk</a></li>
+<a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/C/Conditionals%20and%20Loops">Conditionals and Loops</a>
+<a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/C/Arrays%20and%20Strings">Arrays and Strings</a>
+<a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/C/Functions">Functions</a>
+<a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/C/Structs%20and%20Enums">Structs and Enums</a>
+        
+4
+C++
+<a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/C%2B%2B/Introduction">Introduction</a>
+<a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/C%2B%2B/Strings">Strings</a>
+<a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/C%2B%2B/Classes">Classes</a>
+<a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/C%2B%2B/STL">STL</a>
+<a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/C%2B%2B/Inheritance">Inheritance</a>
+<a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/C%2B%2B/Debugging">Debugging</a>
+<a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/C%2B%2B/Other%20Concepts">Other Concepts</a>
+
+5
+Linux Shell
+<a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/Linux%20Shell/Bash">Bash</a>
+<a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/Linux%20Shell/Text%20Processing">Text Processing</a>
+<a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/Linux%20Shell/Arrays%20in%20Bash">Arrays in Bash</a>
+<a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/Linux%20Shell/Grep%20Sed%20Awk">Grep Sed Awk</a>
+
+
 <hr><br>
 
 <div align=center>
