@@ -75,6 +75,12 @@ This repository is created to store and manage solutions that have been complete
 |     |                 | <a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/Linux%20Shell/Text%20Processing">Text Processing</a>                    |
 |     |                 | <a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/Linux%20Shell/Arrays%20in%20Bash">Arrays in Bash</a>                    |
 |     |                 | <a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/Linux%20Shell/Grep%20Sed%20Awk">Grep Sed Awk</a>                        |
+|     |                 |                                                                                                                                                 |
+|     |                 |                                                                                                                                                 |
+|  6  | Problem Solving | <a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/Problem%20Solving/Warmup">Warmup</a>                                    |
+|     |                 | <a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/Problem%20Solving/Implementation">Implementation</a>                    |
+|     |                 |                                                                                                                                                 |
+|     |                 |                                                                                                                                                 |
 
 <hr><br>
 
